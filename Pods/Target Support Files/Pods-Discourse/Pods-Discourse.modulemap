@@ -1,0 +1,6 @@
+framework module Pods_Discourse {
+  umbrella header "Pods-Discourse-umbrella.h"
+
+  export *
+  module * { export * }
+}

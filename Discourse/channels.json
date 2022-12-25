@@ -1,0 +1,57 @@
+[
+  {
+    "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+    "name": "the og",
+    "channels": [
+      {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+        "name": "hardware",
+        "url": "someurl",
+        "voice": false
+      },
+      {
+        "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+        "name": "newsinfotainment",
+        "url": "someurl",
+        "voice": false
+      },
+      {
+        "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+        "name": "dabbin-til-dawn",
+        "url": "someurl",
+        "voice": false
+      },
+      {
+        "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+        "name": "música",
+        "url": "someurl",
+        "voice": false
+      },
+      {
+        "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+        "name": "shitposting",
+        "url": "someurl",
+        "voice": false
+      }
+    ]
+  },
+  {
+    "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+    "name": "entrilo",
+    "channels": [
+      {
+        "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+        "name": "ravecave",
+        "url": "someurl",
+        "voice": true
+      },
+      {
+        "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+        "name": "exchange-support",
+        "url": "someurl",
+        "voice": true
+      }
+    ]
+  }
+]
+  
