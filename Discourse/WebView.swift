@@ -22,7 +22,6 @@ class WebViewData: ObservableObject {
 
 struct WebView: NSViewRepresentable {
   @ObservedObject var data: WebViewData
-  
   var webView: WKWebView = WKWebView()
   
   func makeNSView(context: Context) -> WKWebView {
